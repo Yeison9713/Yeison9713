@@ -92,20 +92,6 @@ Soy un desarrollador **Full Stack** con más de **5 años de experiencia**, apas
 
 ---
 
-### 📊 Estadísticas GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeison9713&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeison9713&theme=tokyonight" alt="streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeison9713&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
 ### 🤝 ¿Hablamos?
 
 Estoy abierto a colaboraciones, proyectos freelance y oportunidades laborales.  
