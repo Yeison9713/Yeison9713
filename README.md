@@ -31,7 +31,7 @@ Me gusta construir productos web que resuelvan problemas reales: entender cómo 
 
 Trabajo principalmente con **TypeScript**, tanto en backend con **Node.js** como en frontend con **React, Next.js y Vue**. También disfruto conectar sistemas, diseñar APIs y mejorar aplicaciones que ya están en funcionamiento.
 
-Empecé en 2017 con COBOL y migraciones de sistemas legacy. Hoy construyo plataformas web, APIs e integraciones que corren en producción.
+Empecé en 2017 con COBOL y migraciones de sistemas legacy. Hoy construyo plataformas web, APIs e integraciones.
 
 ---
 
